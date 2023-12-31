@@ -4,6 +4,16 @@ body {
 
 #table-of-contents {
     font-family: fantasy;
+    text-align: center;
+}
+
+#table-of-contents ul {
+    list-style-position: inside;
+    display: inline-block;
+}
+
+#table-of-contents li {
+    text-align: left;
 }
 
 #appetizers {
